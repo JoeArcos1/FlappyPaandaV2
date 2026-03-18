@@ -22,14 +22,14 @@
   
   "icons": [
     {
-      "src": "bird1.png",
+      "src": "icono1.png",
       "sizes": "192x192",
-      "type": "image/jpg"
+      "type": "image/png"
     },
     {
-      "src": "bird2.png",
+      "src": "icono2.png",
       "sizes": "512x512",
-      "type": "image/jpg"
+      "type": "image/png"
     }
   ]
 }
